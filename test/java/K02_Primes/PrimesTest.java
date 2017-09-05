@@ -25,6 +25,6 @@ public class PrimesTest {
 		assertFalse(primes.isPrime(6));
 		assertTrue(primes.isPrime(7));
 	}
-	//TODO parameterized tests 
+	//TODO parameterized tests
 
 }
